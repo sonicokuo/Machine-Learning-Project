@@ -21,12 +21,12 @@ To train the model(s) in the final project, run
 [0816170_Final_train.ipynb](https://github.com/sonicokuo/Machine-Learning-Project/blob/master/0816170_Final_train.ipynb) on 
 [Google Colab](https://colab.research.google.com/).
 
->Note that you should also download [test.csv](https://github.com/sonicokuo/Machine-Learning-Project/blob/master/test.csv) and 
-[train.csv](https://github.com/sonicokuo/Machine-Learning-Project/blob/master/train.csv) and change data paths (as the picture shown below) according to the file paths in your Google Drive.  
+>Note that you should also download [test.csv](https://github.com/sonicokuo/Machine-Learning-Project/blob/master/Final%20Project/test.csv) and 
+[train.csv](https://github.com/sonicokuo/Machine-Learning-Project/blob/master/Final%20Project/train.csv) and change data paths (as the picture shown below) according to the file paths in your Google Drive.  
 >![image](https://user-images.githubusercontent.com/73321093/211357749-9d256e73-6dfd-4f89-8a31-2d81f0218652.png)
 
 After you run the code, a trained model will be dumped to your Google Drive.
-The model should be the same as [0816170_model.pkl](https://github.com/sonicokuo/Machine-Learning-Project/blob/master/0816170_model.pkl).
+The model should be the same as [0816170_model.pkl](https://github.com/sonicokuo/Machine-Learning-Project/blob/master/Final%20Project/0816170_model.pkl).
 >You may change file path to dump the model to your desired folder (as the picture shown below).
 >![image](https://user-images.githubusercontent.com/73321093/211359735-dcfd3f5c-2dc0-44a5-b40d-a2693424d923.png)
 
@@ -36,7 +36,7 @@ You can download a pretrained model here:
 
 - [My model](https://drive.google.com/file/d/1yeSTK_EhuhrMZyoYPtWmcT_G8WK3QmT-/view?usp=sharing) stored in my Google Drive
 - or
-- [0816170_model.pkl](https://github.com/sonicokuo/Machine-Learning-Project/blob/master/0816170_model.pkl) on GitHub (they are the same)
+- [0816170_model.pkl](https://github.com/sonicokuo/Machine-Learning-Project/blob/master/Final%20Project/0816170_model.pkl) on GitHub (they are the same)
 
 ## Inferencing
 
@@ -45,8 +45,8 @@ To inference predictions with the model, run
 on [Google Colab](https://colab.research.google.com/).
 
 
->Note that you should also download [test.csv](https://github.com/sonicokuo/Machine-Learning-Project/blob/master/test.csv) and 
-[train.csv](https://github.com/sonicokuo/Machine-Learning-Project/blob/master/train.csv) and change data paths (as the picture shown below) according to the file paths in your Google Drive.  
+>Note that you should also download [test.csv](https://github.com/sonicokuo/Machine-Learning-Project/blob/master/Final%20Project/test.csv) and 
+[train.csv](https://github.com/sonicokuo/Machine-Learning-Project/blob/master/Final%20Project/train.csv) and change data paths (as the picture shown below) according to the file paths in your Google Drive.  
 >![image](https://user-images.githubusercontent.com/73321093/211357749-9d256e73-6dfd-4f89-8a31-2d81f0218652.png)
 >
 >Besides, please change the file path of the model which you are going to use, and you may change file path to output the prediction (i.e. 0816170.csv) to your desired folder (as the picture shown below).
