@@ -22,7 +22,7 @@ To train the model(s) in the final project, run
 [Google Colab](https://colab.research.google.com/).
 
 >Note that you should also download [test.csv](https://github.com/sonicokuo/Machine-Learning-Project/blob/master/test.csv) and 
-[train.csv](https://github.com/sonicokuo/Machine-Learning-Project/blob/master/train.csv) and change data paths (as the picture shown below) according to the file paths in your Google Drive.
+[train.csv](https://github.com/sonicokuo/Machine-Learning-Project/blob/master/train.csv) and change data paths (as the picture shown below) according to the file paths in your Google Drive.  
 >![image](https://user-images.githubusercontent.com/73321093/211357749-9d256e73-6dfd-4f89-8a31-2d81f0218652.png)
 
 After you run the code, a trained model will be dumped to your Google Drive.
@@ -36,11 +36,7 @@ You can download a pretrained model here:
 
 - [My model](https://drive.google.com/file/d/1yeSTK_EhuhrMZyoYPtWmcT_G8WK3QmT-/view?usp=sharing) stored in my Google Drive
 - or
-- [0816170_model.pkl](https://github.com/sonicokuo/Machine-Learning-Project/blob/master/0816170_model.pkl) on GitHub
--  (they are the same)
-
->📋  Give a link to where/how the pretrained models can be downloaded and how they were trained (if applicable).  Alternatively you can have an additional column in your results table with a link to the models.
-
+- [0816170_model.pkl](https://github.com/sonicokuo/Machine-Learning-Project/blob/master/0816170_model.pkl) on GitHub (they are the same)
 
 ## Inferencing
 
@@ -50,7 +46,7 @@ on [Google Colab](https://colab.research.google.com/).
 
 
 >Note that you should also download [test.csv](https://github.com/sonicokuo/Machine-Learning-Project/blob/master/test.csv) and 
-[train.csv](https://github.com/sonicokuo/Machine-Learning-Project/blob/master/train.csv) and change data paths (as the picture shown below) according to the file paths in your Google Drive.
+[train.csv](https://github.com/sonicokuo/Machine-Learning-Project/blob/master/train.csv) and change data paths (as the picture shown below) according to the file paths in your Google Drive.  
 >![image](https://user-images.githubusercontent.com/73321093/211357749-9d256e73-6dfd-4f89-8a31-2d81f0218652.png)
 >
 >Besides, please change the file path of the model which you are going to use, and you may change file path to output the prediction (i.e. 0816170.csv) to your desired folder (as the picture shown below).
@@ -60,7 +56,12 @@ on [Google Colab](https://colab.research.google.com/).
 After you run the code, the prediction will be outputted to your Google Drive.
 The prediction should be the same as [0816170.csv](https://github.com/sonicokuo/Machine-Learning-Project/blob/master/0816170.csv).
 >The prediction shoud be a csv file with 20776 rows (as the picture shown below).
->![image](https://user-images.githubusercontent.com/73321093/211364444-740fb19a-66ef-48fe-bddc-ff05c7b63e78.png)
+>
+>![image](https://user-images.githubusercontent.com/73321093/211368328-4ac645f5-85b9-4568-bf00-ac028e7f1bc8.png) 
+![image](https://user-images.githubusercontent.com/73321093/211367826-ed062569-a2d9-4b37-9314-6406064a125e.png)
+
+
+
 
 
 ## Results
