@@ -9,8 +9,8 @@ This repository is the implementation of [My Final Project](https://docs.google.
 ## Environment Setup
 
 To install required libraries, 
-please download [0816170_Final_train.ipynb](https://github.com/sonicokuo/Machine-Learning-Project/blob/master/0816170_Final_train.ipynb) and 
-[0816170_Final_inference.ipynb](https://github.com/sonicokuo/Machine-Learning-Project/blob/master/0816170_Final_inference.ipynb), 
+please download [0816170_Final_train.ipynb](https://github.com/sonicokuo/Machine-Learning-Project/blob/master/Final%20Project/0816170_Final_train.ipynb) and 
+[0816170_Final_inference.ipynb](https://github.com/sonicokuo/Machine-Learning-Project/blob/master/Final%20Project/0816170_Final_inference.ipynb), 
 and then run the first blocks of them on [Google Colab](https://colab.research.google.com/)
 
 >![image](https://user-images.githubusercontent.com/73321093/211354767-61a183ec-818c-4a3a-8382-8e5c18291089.png)
@@ -18,7 +18,7 @@ and then run the first blocks of them on [Google Colab](https://colab.research.g
 ## Training
 
 To train the model(s) in the final project, run 
-[0816170_Final_train.ipynb](https://github.com/sonicokuo/Machine-Learning-Project/blob/master/0816170_Final_train.ipynb) on 
+[0816170_Final_train.ipynb](https://github.com/sonicokuo/Machine-Learning-Project/blob/master/Final%20Project/0816170_Final_train.ipynb) on 
 [Google Colab](https://colab.research.google.com/).
 
 >Note that you should also download [test.csv](https://github.com/sonicokuo/Machine-Learning-Project/blob/master/Final%20Project/test.csv) and 
@@ -41,7 +41,7 @@ You can download a pretrained model here:
 ## Inferencing
 
 To inference predictions with the model, run 
-[0816170_Final_inference.ipynb](https://github.com/sonicokuo/Machine-Learning-Project/blob/master/0816170_Final_inference.ipynb), 
+[0816170_Final_inference.ipynb](https://github.com/sonicokuo/Machine-Learning-Project/blob/master/Final%20Project/0816170_Final_inference.ipynb), 
 on [Google Colab](https://colab.research.google.com/).
 
 
@@ -54,7 +54,7 @@ on [Google Colab](https://colab.research.google.com/).
 
 
 After you run the code, the prediction will be outputted to your Google Drive.
-The prediction should be the same as [0816170.csv](https://github.com/sonicokuo/Machine-Learning-Project/blob/master/0816170.csv).
+The prediction should be the same as [0816170.csv](https://github.com/sonicokuo/Machine-Learning-Project/blob/master/Final%20Project/0816170.csv).
 >The prediction shoud be a csv file with 20776 rows (as the picture shown below).
 >
 >![image](https://user-images.githubusercontent.com/73321093/211368328-4ac645f5-85b9-4568-bf00-ac028e7f1bc8.png) 
